@@ -7,3 +7,5 @@ include junit test case and solution
 for example:
 1 two sum medium
 will be named like M1.java
+
+also refer to https://leetcode-cn.com/explore

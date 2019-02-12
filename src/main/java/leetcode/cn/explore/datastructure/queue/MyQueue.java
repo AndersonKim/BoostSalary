@@ -37,4 +37,15 @@ public class MyQueue<T> {
     public boolean isEmpty() {
         return p_start >= data.size();
     }
+
+
+    public static void main(String[] args){
+        MyQueue<Integer> q=new MyQueue<>();
+        q.enQueue(new Integer(1));
+        q.enQueue(new Integer(2));
+        q.enQueue(new Integer(3));
+        System.out.println(q.quitQueue());
+        q.deQueue();
+        System.out.println(q.quitQueue());
+    }
 }

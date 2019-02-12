@@ -1,1 +1,5 @@
-collect interview problem using java 
+collect interview problem using java
+divided into three part:
+git-book reading
+code-fight oj
+leetcode.cn oj
